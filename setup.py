@@ -15,6 +15,7 @@ setup(
         "tensorboard>=2.2.1",
         "tensorboardX",
         "setproctitle",
+        "protobuf==3.19.5",
     ],
     classifiers=[
         "License :: OSI Approved :: MIT License",
